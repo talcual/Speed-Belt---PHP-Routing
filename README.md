@@ -1,6 +1,6 @@
 
 <div align="center">
-![alt text](https://i.imgur.com/IXw08oV.png "SpeedBelt")
+  <img src="https://i.imgur.com/IXw08oV.png" alt="SpeedBelt">
 </div>
 
 
