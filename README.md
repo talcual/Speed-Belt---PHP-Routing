@@ -1,4 +1,4 @@
-
+{style=text-align:center}
 ![alt text](https://i.imgur.com/IXw08oV.png "Logo Title Text 1")
 
 
